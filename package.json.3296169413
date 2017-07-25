@@ -1,0 +1,24 @@
+{
+  "name": "react-ejercicio-1",
+  "version": "1.0.0",
+  "description": "react, babel, browserify, boundle",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "react",
+    "babel",
+    "browserify",
+    "gulp",
+    "boundle",
+    "fs"
+  ],
+  "author": "Amalia Rivera Castilllejos <amaliariveracastillejos@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "babelify": "^7.3.0",
+    "gulp": "^3.9.1"
+  }
+}
